@@ -5,5 +5,5 @@ In time series analysis, dynamic time warping (DTW) is an algorithm for measurin
 <br>
 In this script, I use the python package (fastdtw) and apply it to a Energy Usage time series dataset found here: <a href="https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption" target="_blank">UCI Machine Learning - Individual household electric power consumption Data Set </a>
 <br>
-I've provided the Zeppelin notebook (note.json), which can be copied in to your environment and/or you can also view at https://www.zeppelinhub.com/viewer
+<br>I've provided the Zeppelin notebook (note.json), which can be copied in to your environment and/or you can also view at https://www.zeppelinhub.com/viewer
 </p>
